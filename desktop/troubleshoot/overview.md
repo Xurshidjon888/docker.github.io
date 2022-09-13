@@ -43,7 +43,7 @@ The Troubleshoot page contains the following options:
 - **Clean / Purge data**. This option resets all Docker data _without_ a
 reset to factory defaults. Selecting this option results in the loss of existing settings.
 
-- **Reset to factory defaults**: Choose this option to reset all options on
+- **Rese mmmmkkt to factory defaults**: Choose this option to reset all options on
 Docker Desktop to their initial state, the same as when Docker Desktop was first installed.
 
 If you are a Mac user, you also have the option to **Uninstall** Docker Desktop from your system.
